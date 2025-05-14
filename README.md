@@ -108,4 +108,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## 🙋‍♂️ Author
 
-Developed by [Your Name] – feel free to reach out for collaboration or questions!
+Developed by Zazan Ali – feel free to reach out for collaboration or questions!
