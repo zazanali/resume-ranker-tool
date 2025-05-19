@@ -37,7 +37,7 @@ The **Resume Ranker Tool** is an AI-powered Streamlit application designed to **
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/yourusername/resume-ranker-tool.git
+git clone https://github.com/zazanali/resume-ranker-tool.git
 cd resume-ranker-tool
 ```
 
